@@ -1,0 +1,498 @@
+[
+  {
+    "id": 2,
+    "question": "What are your strengths?",
+    "sample_answer": "My strengths are adaptability, quick learning, and strong communication. I stay calm under pressure and focus on delivering quality work."
+  },
+  {
+    "id": 3,
+    "question": "What are your weaknesses?",
+    "sample_answer": "I sometimes take on too many tasks because I want to help the team. I'm learning to prioritize better and communicate early when I need support."
+  },
+  {
+    "id": 4,
+    "question": "Why should we hire you?",
+    "sample_answer": "Because I’m committed to learning, I work well in teams, and I approach challenges with a positive mindset. I bring strong dedication and a willingness to grow with the company."
+  },
+  {
+    "id": 5,
+    "question": "Why do you want this job?",
+    "sample_answer": "This role matches my skills and interests. It offers opportunities to learn, collaborate, and work on impactful projects, which motivates me."
+  },
+  {
+    "id": 6,
+    "question": "Where do you see yourself in 5 years?",
+    "sample_answer": "I see myself as a skilled professional with deeper expertise, taking responsibility and contributing meaningfully to the organization."
+  },
+  {
+    "id": 7,
+    "question": "Tell me about a challenge you faced and how you handled it.",
+    "sample_answer": "I faced a situation where I had to complete a task with limited knowledge. I took initiative to learn quickly, asked for guidance, and completed it successfully on time."
+  },
+  {
+    "id": 8,
+    "question": "What motivates you?",
+    "sample_answer": "Learning new things, solving problems, and being appreciated for meaningful work motivates me the most."
+  },
+  {
+    "id": 9,
+    "question": "How do you handle stress?",
+    "sample_answer": "I stay calm, break tasks into smaller steps, and focus on what can be controlled. This helps me manage pressure effectively."
+  },
+  {
+    "id": 10,
+    "question": "Are you a team player?",
+    "sample_answer": "Yes, I enjoy working with teams. I communicate clearly, respect others’ ideas, and help the team succeed."
+  },
+  {
+    "id": 11,
+    "question": "Describe your ideal work environment.",
+    "sample_answer": "A positive, collaborative environment where people communicate openly, share ideas, and support learning and growth."
+  },
+  {
+    "id": 12,
+    "question": "Tell me about a time you showed leadership.",
+    "sample_answer": "During a project, I organized tasks, coordinated with teammates, and ensured everyone stayed aligned. This helped us finish the work successfully."
+  },
+  {
+    "id": 13,
+    "question": "How do you prioritize your tasks?",
+    "sample_answer": "I assess urgency and impact, list tasks clearly, and focus on what delivers the most value first."
+  },
+  {
+    "id": 14,
+    "question": "What makes you unique?",
+    "sample_answer": "My combination of curiosity, discipline, and willingness to consistently improve makes me unique."
+  },
+  {
+    "id": 15,
+    "question": "What is your greatest achievement?",
+    "sample_answer": "Completing a challenging project by learning everything from scratch and delivering it successfully is something I’m proud of."
+  },
+  {
+    "id": 16,
+    "question": "How do you handle criticism?",
+    "sample_answer": "I take feedback positively, analyze it, and apply it to improve. Constructive criticism is important for growth."
+  },
+  {
+    "id": 17,
+    "question": "What are your hobbies?",
+    "sample_answer": "I enjoy learning new skills, exploring technology, and doing creative tasks that improve my focus and thinking."
+  },
+  {
+    "id": 18,
+    "question": "What values are important to you at work?",
+    "sample_answer": "Integrity, teamwork, learning, and ownership are values I always follow."
+  },
+  {
+    "id": 19,
+    "question": "How do you adapt to changes?",
+    "sample_answer": "I stay open-minded, learn quickly, and adjust my work style based on the situation."
+  },
+  {
+    "id": 20,
+    "question": "Tell me about a time you failed.",
+    "sample_answer": "I once underestimated a task and missed a deadline. I learned to plan better and communicate early to avoid such issues."
+  },
+  {
+    "id": 21,
+    "question": "What did you learn from your last project?",
+    "sample_answer": "I learned the importance of clear communication, time management, and testing work thoroughly."
+  },
+  {
+    "id": 22,
+    "question": "How do you deal with conflicts in a team?",
+    "sample_answer": "I stay calm, listen to both sides, and focus on finding a solution that benefits the team."
+  },
+  {
+    "id": 23,
+    "question": "What is more important to you: speed or accuracy?",
+    "sample_answer": "Accuracy is more important because it builds trust. But I balance speed and accuracy based on the urgency of the task."
+  },
+  {
+    "id": 24,
+    "question": "What kind of manager do you prefer working with?",
+    "sample_answer": "Someone who communicates clearly, gives guidance, and encourages learning and independence."
+  },
+  {
+    "id": 25,
+    "question": "Do you have any questions for us?",
+    "sample_answer": "Yes. Could you tell me more about growth opportunities and the team I would be working with?"
+  },
+  {
+    "id": 26,
+    "question": "How would your friends describe you?",
+    "sample_answer": "They describe me as supportive, positive, and someone who is always willing to learn and help others."
+  },
+  {
+    "id": 27,
+    "question": "What do you know about our company?",
+    "sample_answer": "I know your company focuses on innovation, quality work, and providing growth opportunities. I admire your culture and the way you impact the industry."
+  },
+  {
+    "id": 28,
+    "question": "What is your biggest fear professionally?",
+    "sample_answer": "My biggest fear is not reaching my full potential, so I consistently push myself to learn and improve."
+  },
+  {
+    "id": 29,
+    "question": "Describe a time you worked under pressure.",
+    "sample_answer": "During an important deadline, I stayed calm, organized my tasks, and focused on one step at a time, which helped me complete everything on time."
+  },
+  {
+    "id": 30,
+    "question": "What do you expect from your team members?",
+    "sample_answer": "Clear communication, mutual respect, and a willingness to collaborate to achieve common goals."
+  },
+  {
+    "id": 31,
+    "question": "What is one thing you want to improve about yourself?",
+    "sample_answer": "I’m working on improving my presentation and public speaking skills by practicing regularly."
+  },
+  {
+    "id": 32,
+    "question": "Tell me about a time you went above and beyond.",
+    "sample_answer": "I helped my team complete extra tasks during a busy period, ensuring we met deadlines without compromising quality."
+  },
+  {
+    "id": 33,
+    "question": "How do you manage time?",
+    "sample_answer": "I use a structured to-do list, break tasks into smaller parts, and prioritize based on urgency and importance."
+  },
+  {
+    "id": 34,
+    "question": "What does success mean to you?",
+    "sample_answer": "Success means continuous growth, meaningful work, and making a positive impact on my team and organization."
+  },
+  {
+    "id": 35,
+    "question": "Tell me about a time you helped a teammate.",
+    "sample_answer": "A teammate was struggling with a task, so I helped explain the concept and guided them. We completed the project together successfully."
+  },
+  {
+    "id": 36,
+    "question": "How do you stay organized?",
+    "sample_answer": "I maintain structured notes, use productivity tools, and review my tasks daily to stay on track."
+  },
+  {
+    "id": 37,
+    "question": "What makes a good leader?",
+    "sample_answer": "A good leader listens, supports the team, communicates clearly, and leads by example."
+  },
+  {
+    "id": 38,
+    "question": "What do you do when you disagree with your manager?",
+    "sample_answer": "I respectfully share my perspective with clear reasoning, but I always follow the final decision professionally."
+  },
+  {
+    "id": 39,
+    "question": "How do you handle repetitive tasks?",
+    "sample_answer": "I stay focused by setting small goals, maintaining accuracy, and reminding myself of the task’s importance."
+  },
+  {
+    "id": 40,
+    "question": "Tell me about a time you solved a problem creatively.",
+    "sample_answer": "I once simplified a complex task by breaking it into clear steps and automating part of the process, which saved time."
+  },
+  {
+    "id": 41,
+    "question": "What type of work style suits you best?",
+    "sample_answer": "A balanced style where I can focus independently but also collaborate with the team when needed."
+  },
+  {
+    "id": 42,
+    "question": "How do you react when you make a mistake?",
+    "sample_answer": "I accept responsibility, fix the issue immediately, understand the root cause, and ensure it doesn’t happen again."
+  },
+  {
+    "id": 43,
+    "question": "What skills are you currently developing?",
+    "sample_answer": "I’m improving my problem-solving, communication, and technical skills to become a stronger contributor."
+  },
+  {
+    "id": 44,
+    "question": "Tell me about a time you worked with someone difficult.",
+    "sample_answer": "I focused on understanding their perspective, stayed patient, and communicated clearly to complete the work smoothly."
+  },
+  {
+    "id": 45,
+    "question": "What do you enjoy most about working in a team?",
+    "sample_answer": "Sharing ideas, learning from others, and achieving goals together motivates me the most."
+  },
+  {
+    "id": 46,
+    "question": "How do you handle multitasking?",
+    "sample_answer": "I prioritize based on deadlines and split tasks into manageable steps, ensuring quality while staying efficient."
+  },
+  {
+    "id": 47,
+    "question": "What would you do if you had conflicting deadlines?",
+    "sample_answer": "I communicate early, prioritize based on urgency, and create a structured plan to meet both deadlines."
+  },
+  {
+    "id": 48,
+    "question": "How do you keep yourself motivated?",
+    "sample_answer": "I set small goals, track my progress, and remind myself of the long-term purpose behind my efforts."
+  },
+  {
+    "id": 49,
+    "question": "How do you respond to unexpected changes?",
+    "sample_answer": "I stay calm, adapt quickly, and adjust my plan to ensure the work continues smoothly."
+  },
+  {
+    "id": 50,
+    "question": "What are your salary expectations?",
+    "sample_answer": "I am open to the company’s standard salary range for this role and I value growth and learning opportunities more."
+  },
+
+  {
+    "id": 51,
+    "question": "How do you build trust with your teammates?",
+    "sample_answer": "I build trust by being reliable, communicating openly, and supporting my team whenever needed."
+  },
+  {
+    "id": 52,
+    "question": "Describe a time you adapted to a major change.",
+    "sample_answer": "When project requirements changed suddenly, I quickly reorganized my tasks and coordinated with my team to adjust without delaying the deadline."
+  },
+  {
+    "id": 53,
+    "question": "What makes you unique as a candidate?",
+    "sample_answer": "I combine strong analytical skills with good communication, and I’m always eager to learn and contribute."
+  },
+  {
+    "id": 54,
+    "question": "How do you ensure good communication in a team?",
+    "sample_answer": "I keep communication clear, listen actively, and confirm understanding before moving forward."
+  },
+  {
+    "id": 55,
+    "question": "What type of manager do you work best with?",
+    "sample_answer" : "I work best with managers who are clear, supportive, and open to feedback while giving me space to take responsibility."
+  },
+  {
+    "id": 56,
+    "question": "How do you handle feedback you disagree with?",
+    "sample_answer": "I listen fully, understand the perspective, clarify politely, and still remain open to improving myself."
+  },
+  {
+    "id": 57,
+    "question": "Tell me about a time you resolved a conflict.",
+    "sample_answer": "I focused on understanding both sides, identified the main issue, and suggested a solution we all agreed on."
+  },
+  {
+    "id": 58,
+    "question": "Describe a situation where you took initiative.",
+    "sample_answer": "I voluntarily created a better workflow for our team, which improved speed and reduced errors."
+  },
+  {
+    "id": 59,
+    "question": "How do you stay productive when working from home?",
+    "sample_answer": "I set a proper schedule, minimize distractions, and take short breaks to stay focused."
+  },
+  {
+    "id": 60,
+    "question": "What motivates you the most at work?",
+    "sample_answer": "Learning new things, contributing to meaningful work, and seeing the results of my efforts motivate me."
+  },
+  {
+    "id": 61,
+    "question": "Describe a time you learned something quickly.",
+    "sample_answer": "When assigned a new tool, I watched tutorials, practiced hands-on, and learned it in a short time to support my team."
+  },
+  {
+    "id": 62,
+    "question": "What is your long-term career dream?",
+    "sample_answer": "To grow into a role where I can solve meaningful problems, lead teams, and create value through my skills."
+  },
+  {
+    "id": 63,
+    "question": "How do you manage stress?",
+    "sample_answer": "I stay calm, prioritize tasks, take breaks, and focus on solutions instead of the pressure."
+  },
+  {
+    "id": 64,
+    "question": "What would you do if you saw a team member not doing their part?",
+    "sample_answer": "I would speak to them politely, offer help if needed, and inform my manager if the issue continued."
+  },
+  {
+    "id": 65,
+    "question": "What are the top 3 qualities you bring to a team?",
+    "sample_answer": "Dependability, clear communication, and a positive learning attitude."
+  },
+  {
+    "id": 66,
+    "question": "Describe a time you handled confidential information.",
+    "sample_answer": "I ensured sensitive details stayed with the right people and followed guidelines strictly to maintain trust."
+  },
+  {
+    "id": 67,
+    "question": "Why do you think we should hire you?",
+    "sample_answer": "Because I have the skills, commitment, and mindset to contribute effectively and grow with the organization."
+  },
+  {
+    "id": 68,
+    "question": "What would your previous manager say about you?",
+    "sample_answer": "They would say I'm responsible, quick to learn, and someone who adds value with a positive attitude."
+  },
+  {
+    "id": 69,
+    "question": "Tell me about a time you failed.",
+    "sample_answer": "I missed an early deadline once, but I owned the mistake, improved my planning, and never repeated it again."
+  },
+  {
+    "id": 70,
+    "question": "How do you handle tight deadlines?",
+    "sample_answer": "I break tasks into chunks, avoid multitasking, and maintain full focus until the work is done."
+  },
+  {
+    "id": 71,
+    "question": "What would you improve about your last team?",
+    "sample_answer": "Better documentation and clearer communication would have helped us work more efficiently."
+  },
+  {
+    "id": 72,
+    "question": "How do you deal with repetitive work?",
+    "sample_answer": "I stay consistent, focus on accuracy, and find ways to improve the process to make it easier."
+  },
+  {
+    "id": 73,
+    "question": "Tell me about a time you exceeded expectations.",
+    "sample_answer": "I completed my assigned task early and helped the team finish another part of the project as well."
+  },
+  {
+    "id": 74,
+    "question": "What do you do when you feel overwhelmed?",
+    "sample_answer": "I pause, reorganize my priorities, and handle things step by step while keeping communication clear."
+  },
+  {
+    "id": 75,
+    "question": "What is the most important thing you learned recently?",
+    "sample_answer": "I learned that consistency matters more than speed when building long-term skills."
+  },
+  {
+    "id": 76,
+    "question": "What kind of work environment helps you perform your best?",
+    "sample_answer": "I perform best in an environment that encourages teamwork, open communication, and continuous improvement."
+  },
+  {
+    "id": 77,
+    "question": "How do you make sure you deliver high-quality work?",
+    "sample_answer": "I review my work carefully, follow best practices, and ask for feedback whenever needed."
+  },
+  {
+    "id": 78,
+    "question": "Tell me about a time you worked with a difficult person.",
+    "sample_answer": "I stayed patient, focused on the goal, and communicated respectfully to avoid conflict while completing the work."
+  },
+  {
+    "id": 79,
+    "question": "What is your approach to decision-making?",
+    "sample_answer": "I gather important information, analyze the options, and choose the solution that offers the best long-term benefit."
+  },
+  {
+    "id": 80,
+    "question": "How do you handle situations where you have multiple priorities?",
+    "sample_answer": "I evaluate urgency and impact, create a priority list, and focus on one task at a time."
+  },
+  {
+    "id": 81,
+    "question": "What have you done recently to improve yourself?",
+    "sample_answer": "I have been learning new tools and practicing communication to grow both technically and professionally."
+  },
+  {
+    "id": 82,
+    "question": "Tell me about a time you solved a problem creatively.",
+    "sample_answer": "I identified a bottleneck in a process and suggested a simpler method that saved time for the whole team."
+  },
+  {
+    "id": 83,
+    "question": "What role do you usually take in a team?",
+    "sample_answer": "I naturally take the role of a coordinator—ensuring clarity, helping teammates, and keeping progress on track."
+  },
+  {
+    "id": 84,
+    "question": "How do you react when someone criticizes your work?",
+    "sample_answer": "I listen calmly, understand their point, and use it as an opportunity to improve."
+  },
+  {
+    "id": 85,
+    "question": "Describe a time you had to learn a new skill quickly.",
+    "sample_answer": "For a project deadline, I learned a new software tool in a few days and contributed effectively to the task."
+  },
+  {
+    "id": 86,
+    "question": "How do you handle workplace disagreements?",
+    "sample_answer": "I stay respectful, listen to both sides, and focus on finding a solution that benefits the whole team."
+  },
+  {
+    "id": 87,
+    "question": "What does leadership mean to you?",
+    "sample_answer": "Leadership means guiding others, making fair decisions, taking responsibility, and helping the team grow."
+  },
+  {
+    "id": 88,
+    "question": "Tell me about a time you improved a process.",
+    "sample_answer": "I suggested reorganizing our task flow, which reduced confusion and made the team more efficient."
+  },
+  {
+    "id": 89,
+    "question": "How do you manage your time effectively?",
+    "sample_answer": "I plan tasks ahead, break them into smaller steps, and maintain consistency."
+  },
+  {
+    "id": 90,
+    "question": "What values are most important to you at work?",
+    "sample_answer": "Honesty, teamwork, continuous learning, and accountability."
+  },
+  {
+    "id": 91,
+    "question": "Describe a time you helped a teammate succeed.",
+    "sample_answer": "I mentored a teammate on a new concept, and it helped them complete their tasks confidently."
+  },
+  {
+    "id": 92,
+    "question": "How do you stay organized?",
+    "sample_answer": "I maintain checklists, set reminders, and keep my workspace clean to avoid confusion."
+  },
+  {
+    "id": 93,
+    "question": "Have you ever gone above your job responsibilities?",
+    "sample_answer": "Yes. I offered to assist another team with data cleanup, which sped up the entire project."
+  },
+  {
+    "id": 94,
+    "question": "What does professionalism mean to you?",
+    "sample_answer": "Maintaining integrity, being reliable, and treating others with respect."
+  },
+  {
+    "id": 95,
+    "question": "Tell me about a time you worked under pressure.",
+    "sample_answer": "During an urgent deadline, I stayed focused, avoided distractions, and delivered the work on time."
+  },
+  {
+    "id": 96,
+    "question": "What is your approach to teamwork?",
+    "sample_answer": "I believe in collaboration, supporting each other, and sharing responsibilities fairly."
+  },
+  {
+    "id": 97,
+    "question": "How do you ensure you keep learning new things?",
+    "sample_answer": "I take online courses, experiment with new tools, and analyze my progress regularly."
+  },
+  {
+    "id": 98,
+    "question": "Describe a time you received constructive criticism.",
+    "sample_answer": "My senior suggested improving my documentation. I followed the advice, and my work became much clearer."
+  },
+  {
+    "id": 99,
+    "question": "What inspired you to choose this career field?",
+    "sample_answer": "I enjoy problem-solving and creating things that make life easier for people, which inspired my interest."
+  },
+  {
+    "id": 100,
+    "question": "What is the most important lesson you've learned in your career so far?",
+    "sample_answer": "Consistency and willingness to learn are more valuable than perfection."
+  }
+]

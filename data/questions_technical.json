@@ -1,0 +1,503 @@
+[
+  {
+    "id": 1,
+    "question": "What is the difference between a compiled language and an interpreted language?",
+    "sample_answer": "Compiled languages convert code to machine language before execution, while interpreted languages execute line by line."
+  },
+  {
+    "id": 2,
+    "question": "What is an algorithm?",
+    "sample_answer": "An algorithm is a step-by-step set of instructions designed to solve a specific problem."
+  },
+  {
+    "id": 3,
+    "question": "What is time complexity?",
+    "sample_answer": "Time complexity measures how the execution time of an algorithm grows with input size."
+  },
+  {
+    "id": 4,
+    "question": "What is the difference between an array and a linked list?",
+    "sample_answer": "Arrays have fixed size and allow fast indexing, while linked lists allow dynamic memory but slower access."
+  },
+  {
+    "id": 5,
+    "question": "What is recursion?",
+    "sample_answer": "Recursion is a technique where a function calls itself until a base condition is met."
+  },
+  {
+    "id": 6,
+    "question": "What is polymorphism in OOP?",
+    "sample_answer": "Polymorphism allows the same function name to behave differently based on context or input."
+  },
+  {
+    "id": 7,
+    "question": "Explain encapsulation.",
+    "sample_answer": "Encapsulation hides data using access modifiers and exposes only necessary functionality."
+  },
+  {
+    "id": 8,
+    "question": "What is inheritance?",
+    "sample_answer": "Inheritance allows one class to acquire properties and methods of another class."
+  },
+  {
+    "id": 9,
+    "question": "What is abstraction?",
+    "sample_answer": "Abstraction hides complex implementation details and shows only essential features."
+  },
+  {
+    "id": 10,
+    "question": "What is a database?",
+    "sample_answer": "A database is an organized collection of structured information, typically stored electronically."
+  },
+  {
+    "id": 11,
+    "question": "What is SQL?",
+    "sample_answer": "SQL is a language used to store, manipulate, and retrieve data in relational databases."
+  },
+  {
+    "id": 12,
+    "question": "What is a primary key?",
+    "sample_answer": "A primary key uniquely identifies a record in a table."
+  },
+  {
+    "id": 13,
+    "question": "What is normalization?",
+    "sample_answer": "Normalization organizes data to reduce redundancy and improve data integrity."
+  },
+  {
+    "id": 14,
+    "question": "What is ACID property?",
+    "sample_answer": "ACID stands for Atomicity, Consistency, Isolation, Durability — ensuring reliable database transactions."
+  },
+  {
+    "id": 15,
+    "question": "What is an operating system?",
+    "sample_answer": "An operating system manages hardware, software, memory, and processes in a computer."
+  },
+  {
+    "id": 16,
+    "question": "What is a process?",
+    "sample_answer": "A process is a program in execution with its own memory and resources."
+  },
+  {
+    "id": 17,
+    "question": "What is a thread?",
+    "sample_answer": "A thread is the smallest unit of execution within a process."
+  },
+  {
+    "id": 18,
+    "question": "What is deadlock?",
+    "sample_answer": "Deadlock occurs when two or more processes wait for each other indefinitely."
+  },
+  {
+    "id": 19,
+    "question": "What is pagination in OS?",
+    "sample_answer": "Pagination divides memory into pages to efficiently manage processes."
+  },
+  {
+    "id": 20,
+    "question": "What is HTTP?",
+    "sample_answer": "HTTP is a communication protocol used for transferring data on the web."
+  },
+  {
+    "id": 21,
+    "question": "What is REST API?",
+    "sample_answer": "REST API allows communication between client and server using HTTP methods like GET, POST, PUT, DELETE."
+  },
+  {
+    "id": 22,
+    "question": "What is Git?",
+    "sample_answer": "Git is a version control system used to track code changes."
+  },
+  {
+    "id": 23,
+    "question": "What is a stack?",
+    "sample_answer": "A stack is a LIFO (Last In First Out) data structure used in memory management and function calls."
+  },
+  {
+    "id": 24,
+    "question": "What is a queue?",
+    "sample_answer": "A queue is a FIFO (First In First Out) data structure used for scheduling tasks."
+  },
+  {
+    "id": 25,
+    "question": "What is the difference between == and === in programming?",
+    "sample_answer": "== checks value only, === checks both value and data type (in languages like JavaScript)."
+  },
+  {
+    "id": 26,
+    "question": "What is multithreading?",
+    "sample_answer": "Multithreading allows multiple parts of a program to run concurrently using separate threads."
+  },
+  {
+    "id": 27,
+    "question": "What is a constructor?",
+    "sample_answer": "A constructor is a special method that initializes an object's state when it is created."
+  },
+  {
+    "id": 28,
+    "question": "What is exception handling?",
+    "sample_answer": "Exception handling manages runtime errors using try, catch, and finally blocks."
+  },
+  {
+    "id": 29,
+    "question": "What is the difference between stack and heap memory?",
+    "sample_answer": "Stack stores temporary data like function calls, heap stores dynamic memory allocated at runtime."
+  },
+  {
+    "id": 30,
+    "question": "What is a pointer?",
+    "sample_answer": "A pointer stores the memory address of another variable."
+  },
+  {
+    "id": 31,
+    "question": "What is Big-O notation?",
+    "sample_answer": "Big-O notation represents the worst-case time complexity of an algorithm."
+  },
+  {
+    "id": 32,
+    "question": "Explain binary search.",
+    "sample_answer": "Binary search repeatedly divides the sorted list in half to find a target element efficiently."
+  },
+  {
+    "id": 33,
+    "question": "What is a hash table?",
+    "sample_answer": "A hash table stores key–value pairs using a hashing function for fast lookup."
+  },
+  {
+    "id": 34,
+    "question": "What is a JOIN in SQL?",
+    "sample_answer": "JOIN combines rows from multiple tables based on related columns."
+  },
+  {
+    "id": 35,
+    "question": "What is an index in SQL?",
+    "sample_answer": "An index improves query performance by providing quick access to rows."
+  },
+  {
+    "id": 36,
+    "question": "What is a foreign key?",
+    "sample_answer": "A foreign key links two tables and enforces referential integrity."
+  },
+  {
+    "id": 37,
+    "question": "What is CAP theorem?",
+    "sample_answer": "CAP theorem states that a distributed system cannot guarantee consistency, availability, and partition tolerance simultaneously."
+  },
+  {
+    "id": 38,
+    "question": "What is a virtual function?",
+    "sample_answer": "A virtual function enables runtime polymorphism by allowing derived classes to override base class methods."
+  },
+  {
+    "id": 39,
+    "question": "What is garbage collection?",
+    "sample_answer": "Garbage collection automatically frees unused memory in languages like Java and Python."
+  },
+  {
+    "id": 40,
+    "question": "What is a socket?",
+    "sample_answer": "A socket is an endpoint used for two-way communication between devices over a network."
+  },
+  {
+    "id": 41,
+    "question": "What is DNS?",
+    "sample_answer": "DNS translates human-readable domain names into IP addresses."
+  },
+  {
+    "id": 42,
+    "question": "What is an API key?",
+    "sample_answer": "An API key authenticates users or applications when accessing APIs."
+  },
+  {
+    "id": 43,
+    "question": "What is dependency injection?",
+    "sample_answer": "Dependency injection supplies objects to a class rather than letting the class create them, improving flexibility."
+  },
+  {
+    "id": 44,
+    "question": "What is a microservice?",
+    "sample_answer": "Microservices are small, independent services that together form a large application."
+  },
+  {
+    "id": 45,
+    "question": "What is the difference between PUT and PATCH?",
+    "sample_answer": "PUT fully replaces a resource, PATCH updates only specific fields."
+  },
+  {
+    "id": 46,
+    "question": "What is CI/CD?",
+    "sample_answer": "CI/CD automates integration, testing, and deployment to ensure faster software delivery."
+  },
+  {
+    "id": 47,
+    "question": "What is cloud computing?",
+    "sample_answer": "Cloud computing delivers services like storage, compute, and databases over the internet."
+  },
+  {
+    "id": 48,
+    "question": "What is DevOps?",
+    "sample_answer": "DevOps combines development and operations to improve software delivery speed and reliability."
+  },
+  {
+    "id": 49,
+    "question": "What is NoSQL?",
+    "sample_answer": "NoSQL databases store data in non-tabular formats like key-value, document, or graph models."
+  },
+  {
+    "id": 50,
+    "question": "What is load balancing?",
+    "sample_answer": "Load balancing distributes incoming traffic across multiple servers to improve performance and reliability."
+  },
+  {
+    "id": 51,
+    "question": "Explain the difference between process and thread.",
+    "sample_answer": "A process is an independent program in execution with its own memory space, while a thread is a lightweight unit of a process that shares the same memory. Threads are used for parallel execution within the same process."
+  },
+  {
+    "id": 52,
+    "question": "What is polymorphism in OOP? Give an example.",
+    "sample_answer": "Polymorphism allows objects to be treated as instances of their parent class. Example: Method overloading and overriding in Java, where a single method name can behave differently based on input parameters or subclass implementation."
+  },
+  {
+    "id": 53,
+    "question": "What are the types of joins in SQL?",
+    "sample_answer": "Common SQL joins are INNER JOIN (returns matching rows), LEFT JOIN (all left table rows + matching right), RIGHT JOIN (all right table rows + matching left), FULL OUTER JOIN (all rows from both tables), and CROSS JOIN (Cartesian product)."
+  },
+  {
+    "id": 54,
+    "question": "Explain ACID properties in databases.",
+    "sample_answer": "ACID stands for Atomicity (all-or-nothing transactions), Consistency (data remains valid after transactions), Isolation (transactions do not interfere), Durability (committed data persists even after failures)."
+  },
+  {
+    "id": 55,
+    "question": "What is virtual memory and how does it work?",
+    "sample_answer": "Virtual memory is a memory management technique that uses disk space to extend RAM, allowing programs to use more memory than physically available. It maps virtual addresses to physical memory using page tables."
+  },
+  {
+    "id": 56,
+    "question": "Difference between TCP and UDP protocols.",
+    "sample_answer": "TCP is connection-oriented, reliable, and ensures data delivery in order. UDP is connectionless, faster, but does not guarantee delivery or order. TCP suits file transfer, UDP suits streaming or gaming."
+  },
+  {
+    "id": 57,
+    "question": "What is deadlock? How can it be prevented?",
+    "sample_answer": "Deadlock occurs when two or more processes wait indefinitely for resources held by each other. Prevention methods include resource ordering, avoiding circular wait, and using timeout mechanisms."
+  },
+  {
+    "id": 58,
+    "question": "Explain inheritance in object-oriented programming.",
+    "sample_answer": "Inheritance allows a class (child) to acquire properties and methods of another class (parent). It promotes code reuse and hierarchical relationships. Example: A 'Car' class can inherit from a 'Vehicle' class."
+  },
+  {
+    "id": 59,
+    "question": "What is normalization? Explain 1NF, 2NF, and 3NF.",
+    "sample_answer": "Normalization organizes database tables to reduce redundancy. 1NF: Eliminate repeating groups. 2NF: Remove partial dependency. 3NF: Remove transitive dependency."
+  },
+  {
+    "id": 60,
+    "question": "What is REST API? How is it different from SOAP?",
+    "sample_answer": "REST API is an architectural style using HTTP methods to perform operations on resources (JSON/XML). SOAP is a protocol with strict standards and XML-based messages. REST is lightweight, SOAP is heavier but more standardized."
+  },
+  {
+    "id": 61,
+    "question": "Explain the difference between stack and queue.",
+    "sample_answer": "Stack follows LIFO (Last In, First Out) and supports push/pop operations. Queue follows FIFO (First In, First Out) with enqueue/dequeue operations."
+  },
+  {
+    "id": 62,
+    "question": "What is DNS and how does it work?",
+    "sample_answer": "DNS (Domain Name System) translates human-readable domain names into IP addresses. When a user types a URL, the DNS server resolves it to the corresponding IP for network routing."
+  },
+  {
+    "id": 63,
+    "question": "What are primary key and foreign key in a database?",
+    "sample_answer": "Primary key uniquely identifies each record in a table. Foreign key is a field in one table that refers to the primary key in another table, establishing a relationship."
+  },
+  {
+    "id": 64,
+    "question": "Explain method overloading and method overriding.",
+    "sample_answer": "Method overloading: Same method name, different parameters within a class. Method overriding: Subclass provides its own implementation of a method from the parent class."
+  },
+  {
+    "id": 65,
+    "question": "What is multithreading? Advantages and challenges?",
+    "sample_answer": "Multithreading allows multiple threads to run concurrently within a process. Advantages: better CPU utilization, responsiveness. Challenges: synchronization, race conditions, and deadlocks."
+  },
+  {
+    "id": 66,
+    "question": "Difference between abstract class and interface.",
+    "sample_answer": "Abstract class can have method implementations and fields; interface only declares methods (Java 8+ allows default methods). A class can inherit one abstract class but multiple interfaces."
+  },
+  {
+    "id": 67,
+    "question": "Explain HTTP status codes 200, 404, 500.",
+    "sample_answer": "200: OK, request succeeded. 404: Not Found, requested resource unavailable. 500: Internal Server Error, server failed to process the request."
+  },
+  {
+    "id": 68,
+    "question": "What is a deadlock detection algorithm?",
+    "sample_answer": "Deadlock detection algorithm identifies cycles in the resource allocation graph and resolves deadlocks, often by terminating or rolling back one or more processes."
+  },
+  {
+    "id": 69,
+    "question": "Difference between heap and stack memory.",
+    "sample_answer": "Stack memory stores local variables and function calls, with LIFO allocation, automatically managed. Heap memory is used for dynamic memory allocation, manually managed (or garbage collected)."
+  },
+  {
+    "id": 70,
+    "question": "What is indexing in databases? How does it improve performance?",
+    "sample_answer": "Indexing creates a data structure (like B-tree) to quickly locate records without scanning the entire table, significantly improving query performance."
+  },
+  {
+    "id": 71,
+    "question": "Explain binary search and its time complexity.",
+    "sample_answer": "Binary search finds an element in a sorted array by repeatedly dividing the search space in half. Time complexity: O(log n)."
+  },
+  {
+    "id": 72,
+    "question": "What is the difference between static and dynamic binding?",
+    "sample_answer": "Static binding (compile-time) associates method calls with their definitions at compile time. Dynamic binding (runtime) resolves method calls during execution, allowing polymorphism."
+  },
+  {
+    "id": 73,
+    "question": "Explain the concept of OSI model and its layers.",
+    "sample_answer": "OSI model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application. It standardizes communication functions for interoperability between systems."
+  },
+  {
+    "id": 74,
+    "question": "Difference between symmetric and asymmetric encryption.",
+    "sample_answer": "Symmetric encryption uses the same key for encryption and decryption, fast but requires secure key exchange. Asymmetric uses public/private key pairs, slower but more secure for key exchange."
+  },
+  {
+    "id": 75,
+    "question": "What are signals in operating systems? How are they used?",
+    "sample_answer": "Signals are software interrupts sent to a process to notify events (like SIGKILL, SIGTERM). Processes can handle signals to terminate gracefully, pause, or perform custom actions."
+  },
+  {
+    "id": 76,
+    "question": "What is the difference between HTTP and HTTPS?",
+    "sample_answer": "HTTP is unencrypted and insecure, while HTTPS uses SSL/TLS to encrypt communication, ensuring data confidentiality and integrity."
+  },
+  {
+    "id": 77,
+    "question": "Explain the difference between a process and a program.",
+    "sample_answer": "A program is a set of instructions stored on disk, while a process is a program in execution with its own memory and system resources."
+  },
+  {
+    "id": 78,
+    "question": "What is a deadlock in OS? Give an example.",
+    "sample_answer": "Deadlock occurs when two or more processes wait indefinitely for resources held by each other. Example: Process A holds Resource 1 and waits for Resource 2, while Process B holds Resource 2 and waits for Resource 1."
+  },
+  {
+    "id": 79,
+    "question": "What are AC and DC in computer networks?",
+    "sample_answer": "AC (Alternating Current) and DC (Direct Current) are power supply types. In networking, DC is often used in data centers for servers, while AC powers networking devices from mains."
+  },
+  {
+    "id": 80,
+    "question": "Explain the difference between volatile and non-volatile memory.",
+    "sample_answer": "Volatile memory (like RAM) loses data when power is off. Non-volatile memory (like ROM, SSD) retains data even without power."
+  },
+  {
+    "id": 81,
+    "question": "What is the difference between primary and secondary storage?",
+    "sample_answer": "Primary storage is fast, directly accessible memory (RAM, cache). Secondary storage is slower, persistent storage (HDD, SSD)."
+  },
+  {
+    "id": 82,
+    "question": "Explain the difference between synchronous and asynchronous communication.",
+    "sample_answer": "Synchronous communication requires both sender and receiver to interact in real-time. Asynchronous allows the receiver to respond later. Example: email is asynchronous, phone call is synchronous."
+  },
+  {
+    "id": 83,
+    "question": "What is the difference between a stack and a heap?",
+    "sample_answer": "Stack is memory for local variables and function calls, managed automatically (LIFO). Heap is used for dynamic memory allocation, managed manually or by garbage collection."
+  },
+  {
+    "id": 84,
+    "question": "Explain the difference between a compiler and an interpreter.",
+    "sample_answer": "A compiler translates the entire source code to machine code before execution. An interpreter translates code line by line during execution."
+  },
+  {
+    "id": 85,
+    "question": "What is the difference between GET and POST methods in HTTP?",
+    "sample_answer": "GET requests retrieve data and append parameters in the URL. POST requests send data in the request body, used for creating/updating resources securely."
+  },
+  {
+    "id": 86,
+    "question": "Explain the difference between SQL and NoSQL databases.",
+    "sample_answer": "SQL databases are relational, use structured schema, and support ACID transactions. NoSQL databases are non-relational, schema-less, and are optimized for scalability and unstructured data."
+  },
+  {
+    "id": 87,
+    "question": "What is the difference between a primary key and a unique key?",
+    "sample_answer": "Primary key uniquely identifies each record and cannot be null. Unique key also ensures uniqueness but can have null values."
+  },
+  {
+    "id": 88,
+    "question": "What is the difference between inner join and outer join?",
+    "sample_answer": "Inner join returns only matching rows from both tables. Outer join returns matching rows plus unmatched rows from one or both tables (LEFT, RIGHT, FULL)."
+  },
+  {
+    "id": 89,
+    "question": "What is multithreading in Java? Why is it used?",
+    "sample_answer": "Multithreading allows concurrent execution of multiple threads in a program, improving CPU utilization and performance for tasks like file handling, networking, and GUI responsiveness."
+  },
+  {
+    "id": 90,
+    "question": "Explain the difference between shallow copy and deep copy.",
+    "sample_answer": "Shallow copy copies object references, so changes in nested objects affect both copies. Deep copy creates independent copies of nested objects, preventing shared changes."
+  },
+  {
+    "id": 91,
+    "question": "What is the difference between abstraction and encapsulation in OOP?",
+    "sample_answer": "Abstraction hides implementation details and exposes only functionality. Encapsulation hides internal data using access modifiers and provides controlled access via methods."
+  },
+  {
+    "id": 92,
+    "question": "Explain the difference between process scheduling and thread scheduling.",
+    "sample_answer": "Process scheduling allocates CPU to processes, which are independent with separate memory. Thread scheduling allocates CPU to threads within a process, sharing memory."
+  },
+  {
+    "id": 93,
+    "question": "What is the difference between an interface and an abstract class in Java?",
+    "sample_answer": "Interface declares methods without implementation (Java 8+ allows default methods). Abstract class can have method implementations and fields. A class can implement multiple interfaces but inherit only one abstract class."
+  },
+  {
+    "id": 94,
+    "question": "Explain the difference between polling and interrupt in OS.",
+    "sample_answer": "Polling repeatedly checks device status in a loop (wastes CPU). Interrupt allows device to notify CPU only when needed, improving efficiency."
+  },
+  {
+    "id": 95,
+    "question": "What is the difference between a cookie and a session?",
+    "sample_answer": "Cookie stores small data on the client-side with expiration, used for tracking. Session stores data on the server-side, tied to a user session, more secure for sensitive data."
+  },
+  {
+    "id": 96,
+    "question": "Explain the difference between stack overflow and heap overflow.",
+    "sample_answer": "Stack overflow occurs when stack memory exceeds its limit, often due to recursion. Heap overflow occurs when dynamic memory allocation exceeds heap size, causing runtime errors."
+  },
+  {
+    "id": 97,
+    "question": "What is the difference between a linked list and an array?",
+    "sample_answer": "Array stores elements in contiguous memory, fast index access, fixed size. Linked list stores elements in nodes with pointers, dynamic size, slower access but efficient insertion/deletion."
+  },
+  {
+    "id": 98,
+    "question": "Explain the difference between static and dynamic memory allocation.",
+    "sample_answer": "Static allocation reserves memory at compile-time (like global variables). Dynamic allocation reserves memory at runtime (using malloc in C or new in Java)."
+  },
+  {
+    "id": 99,
+    "question": "What is the difference between a router and a switch?",
+    "sample_answer": "Router connects multiple networks and routes packets based on IP addresses. Switch connects devices within the same network and forwards frames based on MAC addresses."
+  },
+  {
+    "id": 100,
+    "question": "Explain the difference between symmetric and asymmetric key cryptography.",
+    "sample_answer": "Symmetric uses the same key for encryption and decryption, faster but requires secure key exchange. Asymmetric uses public/private key pairs, slower but solves secure key exchange problem."
+  }
+]
+

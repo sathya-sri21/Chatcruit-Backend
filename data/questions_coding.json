@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "question": "Write a program to reverse a string in Python.",
+    "sample_answer": "Python:\n```python\ns = 'Hello World'\nreversed_s = s[::-1]\nprint(reversed_s)\n```"
+  },
+  {
+    "id": 2,
+    "question": "Write a program to find the factorial of a number in Java.",
+    "sample_answer": "Java:\n```java\nint factorial(int n) {\n    if(n == 0) return 1;\n    return n * factorial(n - 1);\n}\nSystem.out.println(factorial(5));\n```"
+  },
+  {
+    "id": 3,
+    "question": "Write a program to check if a number is prime in Python.",
+    "sample_answer": "Python:\n```python\nnum = 29\nis_prime = True\nfor i in range(2, int(num**0.5)+1):\n    if num % i == 0:\n        is_prime = False\n        break\nprint(is_prime)\n```"
+  },
+  {
+    "id": 4,
+    "question": "Write a program to swap two numbers without using a temporary variable.",
+    "sample_answer": "Python:\n```python\na, b = 5, 10\na = a + b\nb = a - b\na = a - b\nprint(a, b)\n```"
+  },
+  {
+    "id": 5,
+    "question": "Write a program to find the largest element in an array.",
+    "sample_answer": "Python:\n```python\narr = [5, 7, 2, 10, 3]\nlargest = max(arr)\nprint(largest)\n```"
+  },
+  {
+    "id": 6,
+    "question": "Write a program to print Fibonacci series up to n terms.",
+    "sample_answer": "Python:\n```python\nn = 10\na, b = 0, 1\nfor _ in range(n):\n    print(a, end=' ')\n    a, b = b, a + b\n```"
+  },
+  {
+    "id": 7,
+    "question": "Write a program to check if a string is a palindrome.",
+    "sample_answer": "Python:\n```python\ns = 'madam'\nprint(s == s[::-1])\n```"
+  },
+  {
+    "id": 8,
+    "question": "Write a program to count vowels in a string.",
+    "sample_answer": "Python:\n```python\ns = 'Hello World'\nvowels = 'aeiouAEIOU'\ncount = sum(1 for c in s if c in vowels)\nprint(count)\n```"
+  },
+  {
+    "id": 9,
+    "question": "Write a program to find the GCD of two numbers.",
+    "sample_answer": "Python:\n```python\nimport math\nprint(math.gcd(48, 18))\n```"
+  },
+  {
+    "id": 10,
+    "question": "Write a program to find the LCM of two numbers.",
+    "sample_answer": "Python:\n```python\nimport math\ndef lcm(a, b):\n    return abs(a*b) // math.gcd(a, b)\nprint(lcm(12, 15))\n```"
+  },
+  {
+    "id": 11,
+    "question": "Write a program to remove duplicates from a list.",
+    "sample_answer": "Python:\n```python\narr = [1,2,2,3,4,4,5]\nunique_arr = list(set(arr))\nprint(unique_arr)\n```"
+  },
+  {
+    "id": 12,
+    "question": "Write a program to check if a number is an Armstrong number.",
+    "sample_answer": "Python:\n```python\nnum = 153\nsum = 0\nfor digit in str(num):\n    sum += int(digit) ** 3\nprint(sum == num)\n```"
+  },
+  {
+    "id": 13,
+    "question": "Write a program to merge two sorted arrays.",
+    "sample_answer": "Python:\n```python\narr1 = [1,3,5]\narr2 = [2,4,6]\nmerged = sorted(arr1 + arr2)\nprint(merged)\n```"
+  },
+  {
+    "id": 14,
+    "question": "Write a program to implement a simple stack using a list.",
+    "sample_answer": "Python:\n```python\nstack = []\nstack.append(10)\nstack.append(20)\nprint(stack.pop())\nprint(stack)\n```"
+  },
+  {
+    "id": 15,
+    "question": "Write a program to implement a simple queue using a list.",
+    "sample_answer": "Python:\n```python\nqueue = []\nqueue.append(10)\nqueue.append(20)\nprint(queue.pop(0))\nprint(queue)\n```"
+  },
+  {
+    "id": 16,
+    "question": "Write a program to find the second largest element in an array.",
+    "sample_answer": "Python:\n```python\narr = [10, 20, 5, 30]\narr.sort()\nprint(arr[-2])\n```"
+  },
+  {
+    "id": 17,
+    "question": "Write a program to check if a number is perfect.",
+    "sample_answer": "Python:\n```python\nnum = 28\nsum_div = sum(i for i in range(1, num) if num % i == 0)\nprint(sum_div == num)\n```"
+  },
+  {
+    "id": 18,
+    "question": "Write a program to reverse a linked list.",
+    "sample_answer": "Python:\n```python\nclass Node:\n    def __init__(self, data):\n        self.data = data\n        self.next = None\n\n# simple linked list creation and reversal omitted for brevity\n```"
+  },
+  {
+    "id": 19,
+    "question": "Write a program to implement binary search.",
+    "sample_answer": "Python:\n```python\ndef binary_search(arr, x):\n    low, high = 0, len(arr)-1\n    while low <= high:\n        mid = (low + high) // 2\n        if arr[mid] == x:\n            return mid\n        elif arr[mid] < x:\n            low = mid + 1\n        else:\n            high = mid - 1\n    return -1\n\nprint(binary_search([1,2,3,4,5], 3))\n```"
+  },
+  {
+    "id": 20,
+    "question": "Write a program to sort an array using bubble sort.",
+    "sample_answer": "Python:\n```python\narr = [5,2,9,1]\nn = len(arr)\nfor i in range(n):\n    for j in range(0, n-i-1):\n        if arr[j] > arr[j+1]:\n            arr[j], arr[j+1] = arr[j+1], arr[j]\nprint(arr)\n```"
+  },
+  {
+    "id": 21,
+    "question": "Write a program to implement a simple calculator.",
+    "sample_answer": "Python:\n```python\na, b = 10, 5\nprint(a+b, a-b, a*b, a/b)\n```"
+  },
+  {
+    "id": 22,
+    "question": "Write a program to find the sum of digits of a number.",
+    "sample_answer": "Python:\n```python\nnum = 1234\nsum_digits = sum(int(d) for d in str(num))\nprint(sum_digits)\n```"
+  },
+  {
+    "id": 23,
+    "question": "Write a program to check if two strings are anagrams.",
+    "sample_answer": "Python:\n```python\ns1 = 'listen'\ns2 = 'silent'\nprint(sorted(s1) == sorted(s2))\n```"
+  },
+  {
+    "id": 24,
+    "question": "Write a program to find the largest prime number less than n.",
+    "sample_answer": "Python:\n```python\nn = 50\nfor num in range(n-1, 1, -1):\n    if all(num % i != 0 for i in range(2, int(num**0.5)+1)):\n        print(num)\n        break\n```"
+  },
+  {
+    "id": 25,
+    "question": "Write a program to count the occurrence of each character in a string.",
+    "sample_answer": "Python:\n```python\ns = 'hello'\nfrom collections import Counter\nprint(Counter(s))\n```"
+  },
+  {
+    "id": 26,
+    "question": "Write a program to find all prime numbers in a given range.",
+    "sample_answer": "Python:\n```python\nstart, end = 10, 50\nprimes = [n for n in range(start, end+1) if all(n % i != 0 for i in range(2, int(n**0.5)+1)) and n > 1]\nprint(primes)\n```"
+  },
+  {
+    "id": 27,
+    "question": "Write a program to check if a string contains only digits.",
+    "sample_answer": "Python:\n```python\ns = '12345'\nprint(s.isdigit())\n```"
+  },
+  {
+    "id": 28,
+    "question": "Write a program to find the length of the longest word in a string.",
+    "sample_answer": "Python:\n```python\ns = 'The quick brown fox'\nlongest = max(len(word) for word in s.split())\nprint(longest)\n```"
+  },
+  {
+    "id": 29,
+    "question": "Write a program to merge two dictionaries.",
+    "sample_answer": "Python:\n```python\nd1 = {'a':1}\nd2 = {'b':2}\nd1.update(d2)\nprint(d1)\n```"
+  },
+  {
+    "id": 30,
+    "question": "Write a program to check if a list is empty.",
+    "sample_answer": "Python:\n```python\nlst = []\nprint(not lst)\n```"
+  },
+  {
+    "id": 31,
+    "question": "Write a program to remove all whitespace from a string.",
+    "sample_answer": "Python:\n```python\ns = 'Hello World'\nprint(s.replace(' ', ''))\n```"
+  },
+  {
+    "id": 32,
+    "question": "Write a program to find the intersection of two lists.",
+    "sample_answer": "Python:\n```python\nlist1 = [1,2,3]\nlist2 = [2,3,4]\nintersection = list(set(list1) & set(list2))\nprint(intersection)\n```"
+  },
+  {
+    "id": 33,
+    "question": "Write a program to convert a decimal number to binary.",
+    "sample_answer": "Python:\n```python\nnum = 10\nprint(bin(num)[2:])\n```"
+  },
+  {
+    "id": 34,
+    "question": "Write a program to implement selection sort.",
+    "sample_answer": "Python:\n```python\narr = [64, 25, 12, 22, 11]\nn = len(arr)\nfor i in range(n):\n    min_idx = i\n    for j in range(i+1, n):\n        if arr[j] < arr[min_idx]:\n            min_idx = j\n    arr[i], arr[min_idx] = arr[min_idx], arr[i]\nprint(arr)\n```"
+  },
+  {
+    "id": 35,
+    "question": "Write a program to find the sum of all elements in an array.",
+    "sample_answer": "Python:\n```python\narr = [1,2,3,4,5]\nprint(sum(arr))\n```"
+  },
+  {
+    "id": 36,
+    "question": "Write a program to implement queue using two stacks.",
+    "sample_answer": "Python:\n```python\nstack1, stack2 = [], []\n\ndef enqueue(x):\n    stack1.append(x)\n\ndef dequeue():\n    if not stack2:\n        while stack1:\n            stack2.append(stack1.pop())\n    return stack2.pop() if stack2 else None\n\nenqueue(1)\nenqueue(2)\nprint(dequeue())\n```"
+  },
+  {
+    "id": 37,
+    "question": "Write a program to find the first non-repeating character in a string.",
+    "sample_answer": "Python:\n```python\ns = 'swiss'\nfrom collections import Counter\nfor c in s:\n    if Counter(s)[c] == 1:\n        print(c)\n        break\n```"
+  },
+  {
+    "id": 38,
+    "question": "Write a program to count the number of words in a string.",
+    "sample_answer": "Python:\n```python\ns = 'Hello World from Python'\nprint(len(s.split()))\n```"
+  },
+  {
+    "id": 39,
+    "question": "Write a program to implement a simple hash map using dictionary.",
+    "sample_answer": "Python:\n```python\nhash_map = {}\nhash_map['key1'] = 'value1'\nhash_map['key2'] = 'value2'\nprint(hash_map['key1'])\n```"
+  },
+  {
+    "id": 40,
+    "question": "Write a program to reverse words in a string.",
+    "sample_answer": "Python:\n```python\ns = 'Hello World'\nprint(' '.join(s.split()[::-1]))\n```"
+  },
+  {
+    "id": 41,
+    "question": "Write a program to check if a list is a palindrome.",
+    "sample_answer": "Python:\n```python\nlst = [1,2,3,2,1]\nprint(lst == lst[::-1])\n```"
+  },
+  {
+    "id": 42,
+    "question": "Write a program to remove a specific element from a list.",
+    "sample_answer": "Python:\n```python\nlst = [1,2,3,2,4]\nlst = [x for x in lst if x != 2]\nprint(lst)\n```"
+  },
+  {
+    "id": 43,
+    "question": "Write a program to find the largest sum contiguous subarray (Kadane's Algorithm).",
+    "sample_answer": "Python:\n```python\narr = [-2,1,-3,4,-1,2,1,-5,4]\nmax_current = max_global = arr[0]\nfor x in arr[1:]:\n    max_current = max(x, max_current + x)\n    max_global = max(max_global, max_current)\nprint(max_global)\n```"
+  },
+  {
+    "id": 44,
+    "question": "Write a program to implement matrix addition.",
+    "sample_answer": "Python:\n```python\nA = [[1,2],[3,4]]\nB = [[5,6],[7,8]]\nresult = [[A[i][j]+B[i][j] for j in range(len(A[0]))] for i in range(len(A))]\nprint(result)\n```"
+  },
+  {
+    "id": 45,
+    "question": "Write a program to transpose a matrix.",
+    "sample_answer": "Python:\n```python\nmatrix = [[1,2,3],[4,5,6]]\ntranspose = [[matrix[j][i] for j in range(len(matrix))] for i in range(len(matrix[0]))]\nprint(transpose)\n```"
+  },
+  {
+    "id": 46,
+    "question": "Write a program to check if a number is a power of two.",
+    "sample_answer": "Python:\n```python\nn = 16\nprint(n > 0 and (n & (n-1)) == 0)\n```"
+  },
+  {
+    "id": 47,
+    "question": "Write a program to remove duplicates from a string.",
+    "sample_answer": "Python:\n```python\ns = 'programming'\nprint(''.join(sorted(set(s), key=s.index)))\n```"
+  },
+  {
+    "id": 48,
+    "question": "Write a program to implement a simple binary tree traversal (in-order).",
+    "sample_answer": "Python:\n```python\nclass Node:\n    def __init__(self, data):\n        self.left = None\n        self.right = None\n        self.data = data\n\ndef inorder(root):\n    if root:\n        inorder(root.left)\n        print(root.data, end=' ')\n        inorder(root.right)\n\nroot = Node(1)\nroot.left = Node(2)\nroot.right = Node(3)\ninorder(root)\n```"
+  },
+  {
+    "id": 49,
+    "question": "Write a program to find the nth Fibonacci number using recursion.",
+    "sample_answer": "Python:\n```python\ndef fib(n):\n    if n <= 1:\n        return n\n    return fib(n-1) + fib(n-2)\n\nprint(fib(10))\n```"
+  },
+  {
+    "id": 50,
+    "question": "Write a program to implement a simple calculator with functions.",
+    "sample_answer": "Python:\n```python\ndef add(a,b): return a+b\ndef sub(a,b): return a-b\ndef mul(a,b): return a*b\ndef div(a,b): return a/b\n\nprint(add(5,3), sub(5,3), mul(5,3), div(5,3))\n```"
+  }
+]
