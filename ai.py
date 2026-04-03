@@ -789,8 +789,11 @@ with main:
                         - Question should be easy to understand
                         - Suitable for a fresher
                         - Use simple English
-                        - Ask about their skills, project, or experience
-                        - Do not ask tricky or deep psychological questions
+                        - Ask about different topics each time (project, skills, experience)
+                        - If a question about project was already asked, next ask about skills
+                        - Then ask about experience or strengths
+                        - Do not repeat the same type of question
+                        - Do not repeat similar questions
                         - Sound like a supportive interviewer
                         - Ask only one question
                         """
